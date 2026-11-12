@@ -24,13 +24,13 @@ Salesforce CRM Portfolio Project
 ## Project Screenshots
 
 ### Dashboard
-![Dashboard](Salesforce-Dashboard.png)
+![Dashboard](Salesforce-Dashboard.png.png)
 
 ### Automation Flow
-![Placement Status Flow](Placement-Status-Flow.png)
+![Placement Status Flow](Placement-Status-Flow.png.png)
 
 ### Student Object
-![Student Object](Student-Object.png)
+![Student Object](Student-Object.png.png)
 
 ### Company Object
 ![Company Object](Company-Object.png)
