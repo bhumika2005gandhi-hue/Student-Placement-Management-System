@@ -20,3 +20,27 @@ A Salesforce-based CRM project designed to manage student placement records, com
 
 ## Project Type
 Salesforce CRM Portfolio Project
+
+## Project Screenshots
+
+### Dashboard
+![Dashboard](Salesforce-Dashboard.png)
+
+### Automation Flow
+![Placement Status Flow](Placement-Status-Flow.png)
+
+### Student Object
+![Student Object](Student-Object.png)
+
+### Company Object
+![Company Object](Company-Object.png)
+
+### Job Application Object
+![Job Application](Job-Application-Object.png)
+
+### Validation Rules
+![Student Validation](Student-Validation-Rule.png)
+
+![Company Validation](Company-Validation-Rule.png)
+
+![Job Application Validation](Job-Application-Validation-Rule.png)
